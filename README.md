@@ -1,3 +1,4 @@
+![CI](https://github.com/salvox318/flask-ci-cd-app/actions/workflows/ci.yml/badge.svg)
 # Flask CI/CD App with Docker and GitHub Actions
 
 A simple Flask application containerized with Docker and deployed using GitHub Actions for continuous integration. The app is also set up for deployment via Render for continuous delivery.
